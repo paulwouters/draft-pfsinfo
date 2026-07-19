@@ -1,0 +1,3 @@
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-ietf-ipsecme-pfsinfo.md paul.wouters@aiven.io someone@example.org
