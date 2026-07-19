@@ -19,8 +19,8 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "PFSinfp"
+abbrev: "pfsinfo"
 category: info
 
 docname: draft-ietf-ipsecme-pfsinfo-latest
@@ -48,7 +48,7 @@ author:
     fullname: Paul Wouters
     organization: Aiven
     email: paul.wouters@aiven.io
--
+ -
     fullname: Someone Else
     organization: Aiven
     email: someone@example.org
