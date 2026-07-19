@@ -28,7 +28,7 @@ author:
     fullname: Paul Wouters
     organization: Aiven
     email: paul.wouters@aiven.io
- 
+
 normative:
 
 informative:
