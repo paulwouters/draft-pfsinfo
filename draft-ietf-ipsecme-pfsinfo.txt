@@ -2,10 +2,10 @@
 
 
 
-WG Working Group                                              P. Wouters
-Internet-Draft                                                   S. Else
-Intended status: Informational                                     Aiven
-Expires: 20 January 2027                                    19 July 2026
+IP Security Maintenance and Extensions                        P. Wouters
+Internet-Draft                                                     Aiven
+Intended status: Informational                              19 July 2026
+Expires: 20 January 2027
 
 
                                 PFSinfp
@@ -20,17 +20,18 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-ietf-ipsecme-
-   pfsinfo/.
+   https://paulwouters.github.io/draft-pfsinfo/draft-ietf-ipsecme-
+   pfsinfo.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-ietf-ipsecme-pfsinfo/.
 
-   Discussion of this document takes place on the IPSECME Working Group
-   mailing list (mailto:ipsec@ietf.org), which is archived at
-   https://example.com/WG.  Subscribe at
+   Discussion of this document takes place on the IP Security
+   Maintenance and Extensions Working Group mailing list
+   (mailto:ipsec@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/ipsec/.  Subscribe at
    https://www.ietf.org/mailman/listinfo/ipsec/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/paulwouters/draft-pfsinfo.
 
 Status of This Memo
 
@@ -71,7 +72,7 @@ Table of Contents
    4.  IANA Considerations
    5.  Normative References
    Acknowledgments
-   Authors' Addresses
+   Author's Address
 
 1.  Introduction
 
@@ -108,13 +109,8 @@ Acknowledgments
 
    TODO acknowledge.
 
-Authors' Addresses
+Author's Address
 
    Paul Wouters
    Aiven
    Email: paul.wouters@aiven.io
-
-
-   Someone Else
-   Aiven
-   Email: someone@example.org
