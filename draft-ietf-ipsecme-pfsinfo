@@ -1,6 +1,6 @@
 ---
 ###
-# Internet-Draft Markdown Template
+# PFS info draft
 #
 # Rename this file from draft-todo-yourname-protocol.md to get started.
 # Draft name format is "draft-<yourname>-<workgroup>-<name>.md".
@@ -23,31 +23,35 @@ title: "TODO - Your title"
 abbrev: "TODO - Abbreviation"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-ietf-ipsecme-pfsinfo-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
+area: SEC
 workgroup: WG Working Group
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
+  group: IPSECME
   type: Working Group
-  mail: WG@example.com
+  mail: ipsec@ietf.org
   arch: https://example.com/WG
   github: USER/REPO
   latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Paul Wouters
+    organization: Aiven
+    email: paul.wouters@aiven.io
+-
+    fullname: Someone Else
+    organization: Aiven
+    email: someone@example.org
 
 normative:
 
