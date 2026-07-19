@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: SEC
-workgroup: WG Working Group
+area: "Security"
+workgroup: "IP Security Maintenance and Extensions"
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: IPSECME
-  type: Working Group
-  mail: ipsec@ietf.org
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "IP Security Maintenance and Extensions"
+  type: "Working Group"
+  mail: "ipsec@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/ipsec/"
+  github: "paulwouters/draft-pfsinfo"
+  latest: "https://paulwouters.github.io/draft-pfsinfo/draft-ietf-ipsecme-pfsinfo.html"
 
 author:
  -
