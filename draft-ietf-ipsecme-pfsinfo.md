@@ -28,11 +28,7 @@ author:
     fullname: Paul Wouters
     organization: Aiven
     email: paul.wouters@aiven.io
- -
-    fullname: Someone Else
-    organization: Aiven
-    email: someone@example.org
-
+ 
 normative:
 
 informative:
